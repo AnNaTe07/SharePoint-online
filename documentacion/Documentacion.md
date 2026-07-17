@@ -250,91 +250,91 @@ Se desarrolló una página destinada a difundir un evento académico utilizando:
 
 Sitio principal creado en SharePoint como punto de partida para las distintas implementaciones realizadas.
 
-![Sitio principal](assets/sitio-principal.png)
+![Sitio principal](../assets/sitio-principal.png)
 
 
 ## Subsitio
 
 Subsitio utilizado para organizar la información correspondiente al escenario de San Luis.
 
-![Subsitio](assets/subsitio-san-luis.png)
+![Subsitio](../assets/subsitio-san-luis.png)
 
 
 ## Biblioteca "Datos Geográficos"
 
 Biblioteca utilizada para almacenar documentos, imágenes y carpetas relacionadas con información geográfica de la provincia.
 
-![Biblioteca Datos Geográficos](assets/biblioteca-datos-geograficos.png)
+![Biblioteca Datos Geográficos](../assets/biblioteca-datos-geograficos.png)
 
 
 ## Lista "Departamentos"
 
 Lista personalizada utilizada para registrar departamentos de la provincia incorporando metadatos administrados.
 
-![Lista Departamentos](assets/lista-departamentos.png)
+![Lista Departamentos]../(assets/lista-departamentos.png)
 
 
 ## Metadatos administrados
 
 Conjunto de términos utilizado para clasificar la ubicación geográfica mediante el servicio Term Store.
 
-![Puntos Cardinales](assets/termstore-puntos-cardinales.png)
+![Puntos Cardinales](../assets/termstore-puntos-cardinales.png)
 
 
 ## Clasificación documental
 
 Conjunto de términos utilizado para clasificar la documentación almacenada en la biblioteca según su tipo de información.
 
-![Tipo de Información](assets/termstore-tipo-informacion.png)
+![Tipo de Información](../assets/termstore-tipo-informacion.png)
 
 
 ## Modelado de la solución
 
 Implementación de listas y bibliotecas para representar la gestión documental del Laboratorio del Hospital Buena Salud.
 
-![Hospital Buena Salud](assets/hospital-buena-salud.png)
+![Hospital Buena Salud](../assets/hospital-buena-salud.png)
 
 
 ## Nivel de permisos personalizado
 
 Creación del nivel de permisos "Colaborador sin eliminación", permitiendo agregar y editar elementos sin autorización para eliminarlos.
 
-![Permisos personalizados](assets/permisos-personalizados.png)
+![Permisos personalizados](../assets/permisos-personalizados.png)
 
 
 ## Grupos de usuarios
 
 Configuración de grupos de SharePoint con distintos niveles de acceso para aplicar el principio de mínimo privilegio.
 
-![Grupos de SharePoint](assets/grupos-sharepoint.png)
+![Grupos de SharePoint](../assets/grupos-sharepoint.png)
 
 
 ## Vista filtrada
 
 Vista configurada para mostrar únicamente los documentos publicados.
 
-![Vista filtrada](assets/vista-filtrada.png)
+![Vista filtrada](../assets/vista-filtrada.png)
 
 
 ## Vista agrupada
 
 Vista organizada por la columna Materia para facilitar la navegación entre documentos.
 
-![Vista agrupada](assets/vista-agrupada.png)
+![Vista agrupada](../assets/vista-agrupada.png)
 
 
 ## Vista calendario
 
 Vista configurada para visualizar los documentos según su fecha de publicación.
 
-![Vista calendario](assets/vista-calendario.png)
+![Vista calendario]../(assets/vista-calendario.png)
 
 
 ## Personalización mediante JSON
 
 Aplicación de formato condicional utilizando JSON para resaltar visualmente el estado de los documentos.
 
-![Formato JSON](assets/formato-json.png)
+![Formato JSON]../(assets/formato-json.png)
 
 
 ## Página moderna
