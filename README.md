@@ -105,7 +105,7 @@ Durante el desarrollo se trabajó con la creación de sitios y subsitios, biblio
 
 La documentación completa se encuentra disponible en:
 
-**📄 documentacion/Documentacion.md**
+- 📄[Documentación del proyecto](documentacion/Documentacion.md)
 
 ---
 
